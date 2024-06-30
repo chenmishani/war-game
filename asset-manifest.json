@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5d55bbe7.css",
-    "main.js": "/static/js/main.d987780c.js",
-    "static/js/787.4cd211bf.chunk.js": "/static/js/787.4cd211bf.chunk.js",
-    "index.html": "/index.html",
-    "main.5d55bbe7.css.map": "/static/css/main.5d55bbe7.css.map",
-    "main.d987780c.js.map": "/static/js/main.d987780c.js.map",
-    "787.4cd211bf.chunk.js.map": "/static/js/787.4cd211bf.chunk.js.map"
+    "main.css": "/war-game/static/css/main.5d55bbe7.css",
+    "main.js": "/war-game/static/js/main.096a04a6.js",
+    "static/js/787.4cd211bf.chunk.js": "/war-game/static/js/787.4cd211bf.chunk.js",
+    "index.html": "/war-game/index.html",
+    "main.5d55bbe7.css.map": "/war-game/static/css/main.5d55bbe7.css.map",
+    "main.096a04a6.js.map": "/war-game/static/js/main.096a04a6.js.map",
+    "787.4cd211bf.chunk.js.map": "/war-game/static/js/787.4cd211bf.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5d55bbe7.css",
-    "static/js/main.d987780c.js"
+    "static/js/main.096a04a6.js"
   ]
 }
