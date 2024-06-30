@@ -1,0 +1,43 @@
+.mainPage{
+    width: 600px;
+    height: 570px;
+    border: 1px solid black; 
+    margin-left: 30%;
+    display: flex;
+    margin-top: 40px;
+    /* position: relative; */
+}
+
+.point{
+    color: red;
+}
+
+#lap{
+    width: 150px;
+    padding-top:200px;
+    font-size: 30px;
+    padding-left: 20px;
+}
+
+.player{
+    font-size: 30px;
+    margin-top: 0px;
+    margin-left: 80px;
+    
+}
+
+.computer{
+    width: 180px;
+    height: 50px;
+    font-size: 25px;
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+
+#btn{
+    width: 150px;
+    height: 80px;
+    margin-left: 5px;
+    margin-top: 160%;
+    font-size: 25px;
+}
